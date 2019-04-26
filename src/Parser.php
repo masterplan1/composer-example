@@ -1,6 +1,6 @@
 <?php
 
-include "ParserInterface.php";
+namespace masterplan1\Parser;
 
 
 class Parser implements ParserInterface{

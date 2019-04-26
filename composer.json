@@ -1,0 +1,21 @@
+{
+    "name": "masterplan1/composer-example-package",
+    "description": "example project",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "BSC-3-Clause",
+    "authors": [
+        {
+            "name": "Igor Som",
+            "email": "masterplan1@ukr.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "masterplan1\\Parcer\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
