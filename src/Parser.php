@@ -11,6 +11,7 @@ class Parser implements ParserInterface{
           'just',
             'do',
             'it',
+            '1it',
         ];
     }
     
